@@ -1,0 +1,15 @@
+D:\Vsual Studio Study\windows-3.28-1\bin\Debug\net6.0\windows-3.28-1.exe
+D:\Vsual Studio Study\windows-3.28-1\bin\Debug\net6.0\windows-3.28-1.deps.json
+D:\Vsual Studio Study\windows-3.28-1\bin\Debug\net6.0\windows-3.28-1.runtimeconfig.json
+D:\Vsual Studio Study\windows-3.28-1\bin\Debug\net6.0\windows-3.28-1.dll
+D:\Vsual Studio Study\windows-3.28-1\bin\Debug\net6.0\windows-3.28-1.pdb
+D:\Vsual Studio Study\windows-3.28-1\obj\Debug\net6.0\windows-3.28-1.csproj.AssemblyReference.cache
+D:\Vsual Studio Study\windows-3.28-1\obj\Debug\net6.0\windows-3.28-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vsual Studio Study\windows-3.28-1\obj\Debug\net6.0\windows-3.28-1.AssemblyInfoInputs.cache
+D:\Vsual Studio Study\windows-3.28-1\obj\Debug\net6.0\windows-3.28-1.AssemblyInfo.cs
+D:\Vsual Studio Study\windows-3.28-1\obj\Debug\net6.0\windows-3.28-1.csproj.CoreCompileInputs.cache
+D:\Vsual Studio Study\windows-3.28-1\obj\Debug\net6.0\windows-3.28-1.dll
+D:\Vsual Studio Study\windows-3.28-1\obj\Debug\net6.0\refint\windows-3.28-1.dll
+D:\Vsual Studio Study\windows-3.28-1\obj\Debug\net6.0\windows-3.28-1.pdb
+D:\Vsual Studio Study\windows-3.28-1\obj\Debug\net6.0\windows-3.28-1.genruntimeconfig.cache
+D:\Vsual Studio Study\windows-3.28-1\obj\Debug\net6.0\ref\windows-3.28-1.dll
